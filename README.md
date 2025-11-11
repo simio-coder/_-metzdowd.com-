@@ -8,11 +8,16 @@ _BTCrepo:
     19WhitepaperA\n 12_¿cómo?_¿cuando?} Whitepaper1.txt {19WhitepaperA\n 12[(1997)(nick)("El Sitio")] {Whitepaper2.txt {19Satoshi_NAkamotoA\n https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html@49:nick
     
   interprete@/
+    limite_de_integracion_e_incondicionalidad.txt
+    
   parametro@/
+
 estilo_KOHAN_¿QUÉ?
   @fundamento/
+
 estilo_GATHA_¿CÓMO?
   @metodo/
+
 estilo_HYOCHU_¿CUANDO?
   @sustento/
     sustentación.txt·propagación de método + recepción de resultado
