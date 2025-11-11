@@ -9,6 +9,10 @@ _BTCrepo:
     
   interprete@/
     limite_de_integracion_e_incondicionalidad.txt
+    incondicional_movimiento_fila_'one'.txt #limites incondicionales_(¿cómo?:¿forma?)_(¿cuales?:¿cuando?)
+    12.ccv
+    19.ccv
+    49.ccv
     
   parametro@/
 
